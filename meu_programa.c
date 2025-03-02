@@ -1,0 +1,2 @@
+gcc
+./meu_programa
